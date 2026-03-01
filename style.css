@@ -139,7 +139,7 @@ a {
 /* hero section */
 
 .hero-section {
-  background-image: url('hero\ image.jpg');
+  background-image: url('hero image.jpg');
   background-size: cover;
   height: 340px;
   display: flex;
@@ -340,4 +340,5 @@ ul a {
     .nav-logo, .nav-cart, .add-icon {
         margin-bottom: 5px;
     }
+
 }
