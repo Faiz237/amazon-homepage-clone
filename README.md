@@ -3,7 +3,7 @@
 A responsive and visually accurate front-end clone of the Amazon e-commerce homepage. This project was built entirely from scratch to demonstrate UI/UX implementation and structuring web pages.
 
 ## 🚀 Live Demo
-[Click here to view the live project](https://faiz237.github.io/amazon-homepage-clone/)
+[Click here to view the live project]
 
 ## 🛠️ Tech Stack Used
 * **HTML5:** For semantic structure and content layout.
